@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Fulano Junior",
+      "email": "fulano1@fulano.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Maria da Silva",
+      "email": "fulano2@fulano.com.br"
+    }
+  ]
+}
